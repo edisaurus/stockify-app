@@ -1,6 +1,4 @@
-# Stock Trading Simulator App
-
-An app made using Ruby on Rails, StimulusJS, and Bootstrap.
+# Stock Trading App
 
 #### Version
 
