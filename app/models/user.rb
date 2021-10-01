@@ -6,4 +6,5 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
 
   validates :email, :password, :password_confirmation, presence: true
+  has_many :stocks
 end
